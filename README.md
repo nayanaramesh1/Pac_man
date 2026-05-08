@@ -63,8 +63,12 @@ A Python-based Pac-Man style game built using Pygame, featuring dynamic maze gen
 
 ## 📁 Project Structure
 pacman-ai-game/
-│── main.py
+
+│── pacman.py
+
 │── README.md
+
+---
 
 ## ▶️ How to Run
 ### 1. Clone the repository
@@ -74,7 +78,7 @@ cd pacman-ai-game
 ### 3. Install dependencies
 pip install pygame
 ### 4. Run the game
-python main.py
+python pacman.py
 
 ---
 
